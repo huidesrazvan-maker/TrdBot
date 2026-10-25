@@ -1,0 +1,7 @@
+{
+  "BTC": {"spot": {"volume_value": 111817944.92, "open_interest": 0}, "perp": {"volume_value": 127698431.12, "open_interest": 6191.3958}, "funding": null},
+  "ETH": {"spot": {"volume_value": 83090825.00, "open_interest": 0}, "perp": {"volume_value": 77177748.50, "open_interest": 176222.3489}, "funding": null},
+  "SOL": {"spot": {"volume_value": 8001113.34, "open_interest": 0}, "perp": {"volume_value": 3797631.27, "open_interest": 26410.86}, "funding": null},
+  "XRP": {"spot": {"volume_value": 6516519.40, "open_interest": 0}, "perp": {"volume_value": 2322296.61, "open_interest": 998648}, "funding": null},
+  "DOGE": {"spot": {"volume_value": 913439.93, "open_interest": 0}, "perp": {"volume_value": 1044400.70, "open_interest": 4118350}, "funding": null}
+}
